@@ -20,4 +20,4 @@ spec:
             - containerPort: 3000
           env:
             - name: NEXT_PUBLIC_API_URL
-              value: "http://192.168.10.250:30297"
+              value: "http://backend.book-review.svc.cluster.local:3001"
