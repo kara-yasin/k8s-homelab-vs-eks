@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: karayasin/k8s-backend:latest
+          image: karayasin/k8s-backend:2
           ports:
             - containerPort: 3001
           env:
