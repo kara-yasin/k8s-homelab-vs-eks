@@ -6,6 +6,7 @@ This project is a comparative study of Kubernetes running in two different envir
 
 ## Project Structure
 
+```
 k8s-homelab-vs-eks/
 ├── backend/                  # Node.js REST API
 ├── frontend/                 # Next.js web application
@@ -14,6 +15,7 @@ k8s-homelab-vs-eks/
 │   └── eks/                  # Kubernetes manifests for AWS EKS environment
 ├── .github/workflows/        # GitHub Actions CI/CD pipeline
 └── eks-cluster.yaml          # EKS cluster definition for eksctl
+```
 
 ## Tech Stack
 
