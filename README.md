@@ -1,4 +1,4 @@
-# Kubernetes Homelab vs AWS EKS## About This Project
+# Kubernetes Homelab vs AWS EKS
 
 ## About This Project
 
