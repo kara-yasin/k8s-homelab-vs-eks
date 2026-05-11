@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: karayasin/k8s-frontend:6
+          image: karayasin/k8s-frontend:7
           ports:
             - containerPort: 3000
           env:
